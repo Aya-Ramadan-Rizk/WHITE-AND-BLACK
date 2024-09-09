@@ -1,0 +1,40 @@
+H1{
+    color: white;
+    background-color: black;
+    width:900px;
+}
+
+p{
+    color: white;
+    background-color: black;
+    width:900px;
+}
+
+h2{
+    color: white;
+    background-color: black;
+    width:900px;
+}
+
+label{
+    color: white;
+    background-color: black;
+}
+
+textarea{
+    color: white;
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    border-radius: 11px;
+    border: none;
+}
+
+button{
+    color: white;
+    background-color: black;
+    width: 60px;
+    height: 42px;
+    border-radius: 9px;
+    border: none;
+}
